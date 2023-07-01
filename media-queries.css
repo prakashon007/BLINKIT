@@ -1,0 +1,18 @@
+@media screen and (max-width:1368px) {
+    .nav-taggle{
+        display:inline-block;
+        position:absolute;
+        right:3.5rem;
+        
+    }
+    
+     .container{
+        overflow:initial;
+    }
+    .location, .search, .login, .cart{
+    display:none;
+    }
+    
+
+   
+}
